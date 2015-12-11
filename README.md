@@ -19,7 +19,6 @@ Data Structure:
 7.Death
 8.Etiology Status
 
-Link :http://wwwn.cdc.gov/foodborneoutbreaks/
 
 Parameters Considered for analysis :
 1.Year
