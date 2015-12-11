@@ -1,6 +1,13 @@
 # Statistical_Programming_project
 Analysis of Genus Specimen and their occurrences
 
+Summary :
+This Project analyzes the reported illnesses caused by genus species data,time, location and provides an insights and determines the top genus species that are causing illnesses in US as well as provides a brief report of the Top 3 states effected with the viruses along with the names of genus species. 
+One more report regarding the Top species effecting US and their affecting regions .These reports will give an idea about the type of precautions that are to be taken inorder to reduce the illnesses as well as to reduce them in particular State.
+
+
+Data Source :http://wwwn.cdc.gov/foodborneoutbreaks/ --> Download Data --> Excel Download current search data (Excel).
+
 
 Data Structure:
 1.Year(1998 - 2014)
