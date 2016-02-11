@@ -1,5 +1,5 @@
-# Statistical_Programming_project
-Analysis of Genus Specimen and their occurrences
+# Data Programming Project
+Prediction of most prevalent micro-organisms and their effects various states[CDC data]
 
 Summary :
 This Project analyzes the reported illnesses caused by genus species data,time, location and provides an insights and determines the top genus species that are causing illnesses in US as well as provides a brief report of the Top 3 states effected with the viruses along with the names of genus species. 
